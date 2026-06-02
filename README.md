@@ -117,7 +117,7 @@ Es la misma receta.
 La nota es individual y cada integrante debe tener minimo 10 commits con
 mensajes descriptivos.
 
-- Paolo Mancini   - (parte que hizo)
-- Maria           - (parte que hizo)
-- Roberto         - (parte que hizo)
-- Harley          - (parte que hizo)
+- Paolo 
+- Maria         
+- Roberto         
+- Harley        
